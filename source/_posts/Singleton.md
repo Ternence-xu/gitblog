@@ -1,6 +1,8 @@
 -----
 title: 单例模式(饿汉和懒汉)C++
-tags: C++,单例模式
+tags: 
+	- C++
+	- 单例模式
 -----
 <font face="微软雅黑" size="3" color ="black">
 普通的单例模式(线程不安全)

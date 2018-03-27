@@ -1,6 +1,9 @@
 -----
 title: const与指针
-tags: C++,const,指针
+tags: 
+	- C++
+	- const
+	- 指针
 -----
 <font face="微软雅黑" size="4" color ="black">
 之前关于const与指针的位置的差别，总是将指向常量的指针与常量指针混淆，说到底其实还是没有真的理解，下面做一个梳理
